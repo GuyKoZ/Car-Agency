@@ -1,5 +1,5 @@
-//Guy Kozliner - 316612662
-//Yakov Hazut - 205874233
+//Guy Kozliner
+
 import java.util.ArrayList;
 
 public class Agent {
