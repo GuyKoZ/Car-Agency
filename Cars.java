@@ -1,5 +1,4 @@
-//Guy Kozliner - 316612662
-//Yakov Hazut - 205874233
+//Guy Kozliner
 
 public class Cars {
     private String color;
